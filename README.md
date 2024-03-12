@@ -31,6 +31,5 @@ This assignment will involve building a pairs trading strategy to test this hypo
 2. Build a better model than the z-score trading system. Be creative in the modelling techniques you implement.
 3. Compare your proposed model with the base model with the goal of optimizing the absolute P/L, Sharpe Ratio, and Drawdown of your strategy.
 
-**Formulae:**
 <img width="470" alt="Screenshot 2024-03-12 at 11 02 37 PM" src="https://github.com/benjamin90s/True_beacon/assets/101950357/1548b563-e459-4c7e-b825-2e30baaeac12">
 
