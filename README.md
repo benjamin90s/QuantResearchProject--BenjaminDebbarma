@@ -19,6 +19,8 @@ This assignment will involve building a pairs trading strategy to test this hypo
 
 **Dataset**
 
+[data.parquet](https://prod-files-secure.s3.us-west-2.amazonaws.com/f3d54618-4ee1-480d-b8f7-25c361e2c7b2/12d14740-f5b4-4ce9-9d4d-b9d0b3cd5548/data.parquet)
+
 1. Time series of minute-level implied volatilities (IVs) of Bank Nifty and Nifty.
 2. Time To Expiry (TTE) for the series.
 3. Indian market trading hours are between 09:15 and 15:30. 
